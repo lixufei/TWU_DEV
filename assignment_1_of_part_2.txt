@@ -1,0 +1,34 @@
+1.Gini Coefficient
+ The Gini Coefficient in China between 2004 and 2014 is as following:
+ 2004:0.473
+ 2005:0.485
+ 2006:0.487
+ 2007:0.484
+ 2008:0.491
+ 2009:0.49
+ 2010:0.481
+ 2011:0.477
+ 2012:0.474
+ 2013:0.473
+ 2014:0.469
+ we can got that the data is lower a little in closer years.
+ According to a statistic ,we can see the 8 countries with the greatest income distribution equality between 2003 and 2012 based on the Gini index.
+ Sweden:0.25
+ Ukraine:0.256
+ Norway:0.258
+ Slovakia:0.26
+ Belarus:0.265
+ Finland:0.269
+ Romania:0.274
+ Afghanistan:0.278
+ Maybe Sweden has a more fair income distribution.
+ 
+2.Learning About Imperialism
+India was ever ruled by British and there were two sides:Churchill,who was loyal to the Empire and thought about reaching an accommodation with the 
+Congress Party,and Bose,who tried his best to liberate and got help from German through his own effort.Obviously,Bose was the right side Indian should
+be on.Wars led to countless deaths and famine.Where there is oppression, there is resistance.India is a country with long history,and what they did has 
+proved all.
+
+3.Your Recommendations for ThoughtWorks
+Recently,I found a site where there are some articles written by a developer.You can scan them if interest.here is an example:
+http://www.joelonsoftware.com/articles/APIWar.html
