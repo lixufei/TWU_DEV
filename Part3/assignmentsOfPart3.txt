@@ -1,0 +1,20 @@
+1.Assignment: Fighting oppression
+While this was in the US, there are similar acts of discrimination in every country across the world. TW wants to make sure that it is a welcome place for men and women, so we need to keep an eye out for the discrimination that is a "normal" part of each country where we operate.
+
+Find the percentage of women who get Computer Science degrees in the country where you live. Include a link to where you got your information.
+What groups in your country are oppressed? Are there groups of people who, for historical reasons, are treated badly? Denied education? Denied rights? Or just treated badly?
+Please upload your response in a text file below.
+
+
+2.Assignment: Javascript Koans
+Assignment
+For this assignment, we will be using jsFiddle, an online IDE and collaboration tool. Here are the steps you will need to follow:
+
+Sign up for a jsFiddle account
+Take a look at the code problems listed at TWU JS Fiddles
+For each problem listed, click its link and then click "Fork"
+Please complete and save the JavaScript section in your forked fiddles
+Tip: If you run into any issues with getting the desired output, click the "JSLint" button on the jsFiddle interface, to check if your code has any errors.
+
+Submission Guidelines
+Click on the 'Add Submission' button at the bottom of this page. Paste the URLs of the completed koans in the textbox that appears. The GEL will take a look at your solutions, and provide you with feedback.
